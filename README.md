@@ -40,8 +40,3 @@ This high ROC-AUC score means the model is highly capable of flagging potential 
 * **Pandas & NumPy** (Data manipulation and linear algebra)
 * **Matplotlib & Seaborn** (Exploratory Data Analysis and statistical visualizations)
 * **Scikit-Learn** (Machine learning modeling, preprocessing, and evaluation)
-
-## 🚀 How to Run the Project
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/your-username/Credit-Risk-Prediction.git](https://github.com/your-username/Credit-Risk-Prediction.git)
